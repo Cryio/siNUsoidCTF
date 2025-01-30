@@ -1,0 +1,118 @@
+id,title,route,content,draft,hidden,auth_required,format,link_target
+1,ciberNUsoid,index,"<head>
+<style>
+  body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    text-align: center;
+  }
+  .social-media-links a {
+    margin: 0 10px;
+    text-decoration: none;
+  }
+  img {
+    max-width: 400px;
+    margin-bottom: 20px;
+  }
+    .countdown-timer {
+    pointer-events: none;
+  }
+</style>
+</head>
+<body>
+
+<div class=""row"">
+    <div class=""col-md-6 offset-md-3"">
+        <img class=""w-100 mx-auto d-block"" src=""/files/66a6b0c40423c490691936515c2c6ca5/OwoBYWx_-_Imgur-removebg-preview.png"" />
+        <h3 class=""text-center"">
+            <p>Chase the Flag, Shape the Victory - Grit and Brilliance are the tools</p>
+        </h3>
+
+        <div class=""social-media-links"">
+          <h3>
+            <p>Follow us on social media:</p>
+            <a href=""https://sinusoid.in/""><i class=""fas fa-globe fa-2x""></i></a>
+            <a href=""https://instagram.com/sinusoid.nu/""><i class=""fab fa-instagram fa-2x"" aria-hidden=""true""></i></a>
+          </h3>
+        </div>
+    </div>
+</div>
+</body>
+
+",False,False,False,html,
+2,Rules,rules,"  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 50px;
+    }
+    h1, h2, h3 {
+      text-align: center;
+    }
+    h3 {
+      margin: 15px;
+    }
+    .container_rules {
+      max-width: 1000px;
+      margin: auto;
+      padding: 20px;
+      box-shadow: 0 0 10px;
+    }
+    .acceptance {
+      font-weight: bold;
+      text-align: center;
+      margin-top: 30px;
+    }
+  </style>
+<body>
+  <h1>Rules and Regulations</h1>
+  <p style='text-align: center;'>Welcome to our CTF competition! Please review the following rules to ensure a smooth and fair experience for everyone.</p>
+<div class=""container_rules"">
+  <h3>General Rules</h3>
+  <ul>
+    <li><strong>Eligibility:</strong> Open to individuals only. No teams allowed</li>
+    <li><strong>Respect:</strong> Treat everyone with respect. Harassment of any form is prohibited.</li>
+    <li><strong>Fair Play:</strong> Don’t disrupt the competition or interfere with others.</li>
+    <li><strong>Registration:</strong> Use your real name and email address. If your username or email is unrecognizable, you may be disqualified.</li>
+
+
+  </ul>
+
+  <h3>Competition Rules</h3>
+  <ul>
+    <li><strong>Outside Help:</strong> No external assistance allowed during the competition.</li>
+    <li><strong>Teamwork:</strong> Collaboration is NOT allowed.</li>
+    <li><strong>Flags:</strong> Each challenge has one or more flags. Don’t share or post flags outside. Doing so will lead to disqualification. </li>
+    <li><strong>Logging:</strong> Platform activity is monitored. Suspicious behavior may lead to disqualification.</li>
+  </ul>
+
+  <h3>Scoring and Prizes</h3>
+  <ul>
+    <li><strong>Scoring:</strong> Points are based on challenge difficulty. The leaderboard updates in real-time.</li>
+    <li><strong>Points:</strong> Points are awarded on a ""first-solve"" basis, with more points given to the fastest solvers. Each subsequent solve will yield slightly fewer points, rewarding quicker solutions.</li>
+    <li><strong>Prizes:</strong> Top scorers and winners will be contacted post-event.</li>
+  </ul>
+
+  <h3>Technical Rules</h3>
+  <ul>
+    <li><strong>Scope:</strong> Do not exploit outside the challenge scope.</li>
+    <li><strong>Prohibited Tools:</strong> Avoid DDoS attacks or actions that disrupt others.</li>
+    <li><strong>Report Issues:</strong> Notify organizers of any bugs or issues without exploiting them.</li>
+  </ul>
+
+  <h3>Disqualification</h3>
+  <ul>
+    <li><strong>Rule Violations:</strong> Breaking rules may result in disqualification.</li>
+    <li><strong>Integrity:</strong> Organizers reserve the right to disqualify any disruptive participant at their discretion.</li>
+  </ul>
+
+  <p class=""acceptance"">By participating in this CTF, you agree to follow these rules. Good luck, and enjoy the competition!</p>
+</div>
+</body>
+
+",False,False,False,markdown,

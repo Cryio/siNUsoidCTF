@@ -1,0 +1,121 @@
+
+
+TAPClean version: 0.38
+
+GENERAL INFO AND TEST RESULTS
+
+TAP Name    : D:\Projects\CTF-workshop\siNUsoidCTF\11-CommodoreGame\ctffff.tap
+TAP Size    : 131470 bytes (128 kB)
+TAP Version : 1
+Recognized  : 100%
+Data Files  : 4
+Pauses      : 1
+Gaps        : 0
+Magic CRC32 : 0CCF8DF8
+TAP Time    : 1:1.19
+Bootable    : YES (1 part, name:  )
+Loader ID   : n/a
+
+Overall Result    : FAIL
+
+Header test       : PASS [Sig: OK] [Ver: OK] [Siz: OK]
+Recognition test  : PASS [131450 of 131450 bytes accounted for] [100%]
+Checksum test     : PASS [4 of 4 checksummed files OK]
+Read test         : PASS [0 Errors]
+Optimization test : FAIL [0 of 4 files OK]
+
+
+
+
+
+
+FILE FREQUENCY TABLE
+
+PAUSE (1)
+C64 ROM-TAPE HEADER (2)
+C64 ROM-TAPE DATA (2)
+
+
+
+
+
+FILE DATABASE
+
+---------------------------------
+Seq. no.: 1
+File Type: C64 ROM-TAPE HEADER
+Location: $0014 -> $4EE8 -> $5DE8 -> $5DFD
+LA: $033C  EA: $03FB  SZ: 192
+File Name:  
+Pilot/Trailer Size: 20000/0
+Checkbyte Actual/Expected: $BD/$BD, PASS
+Read Errors: 0
+Unoptimized Pulses: 2223
+CRC32: 77C2C94D
+ - File ID : FIRST
+ - DATA FILE type : BASIC
+ - DATA FILE Load address : $0801
+ - DATA FILE End address : $1184
+ - DATA FILE Size (calculated) : 2435 bytes
+
+---------------------------------
+Seq. no.: 2
+File Type: C64 ROM-TAPE HEADER
+Location: $5DFE -> $5F01 -> $6E01 -> $6EDE
+LA: $033C  EA: $03FB  SZ: 192
+File Name:  
+Pilot/Trailer Size: 79/200
+Checkbyte Actual/Expected: $BD/$BD, PASS
+Read Errors: 0
+Unoptimized Pulses: 2223
+CRC32: 77C2C94D
+ - File ID : REPEAT
+ - DATA FILE type : BASIC
+ - DATA FILE Load address : $0801
+ - DATA FILE End address : $1184
+ - DATA FILE Size (calculated) : 2435 bytes
+
+---------------------------------
+Seq. no.: 3
+File Type: PAUSE
+Location: $6EDF -> $0000 -> $0000 -> $6EE2
+ - Length : 200000 cycles (0.2030 secs)
+
+---------------------------------
+Seq. no.: 4
+File Type: C64 ROM-TAPE DATA
+Location: $6EE3 -> $831F -> $1415B -> $14170
+LA: $0801  EA: $1183  SZ: 2435
+Pilot/Trailer Size: 5000/0
+Checkbyte Actual/Expected: $70/$70, PASS
+Read Errors: 0
+Unoptimized Pulses: 26896
+CRC32: 8EA4FDAF
+ - File ID : FIRST
+
+---------------------------------
+Seq. no.: 5
+File Type: C64 ROM-TAPE DATA
+Location: $14171 -> $14274 -> $200B0 -> $2018D
+LA: $0801  EA: $1183  SZ: 2435
+Pilot/Trailer Size: 79/200
+Checkbyte Actual/Expected: $70/$70, PASS
+Read Errors: 0
+Unoptimized Pulses: 26896
+CRC32: 8EA4FDAF
+ - File ID : REPEAT
+
+
+
+
+
+
+PULSE FREQUENCY TABLE
+
+0x30 (73207)
+0x43 (52940)
+0x55 (5298)
+
+
+
+

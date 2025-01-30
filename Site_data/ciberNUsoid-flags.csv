@@ -1,0 +1,16 @@
+id,challenge_id,type,content,data
+1,1,static,cibernusoid{m0r53c0d3ftw937a6s39},case_insensitive
+2,2,static,ciberNUtica{1/800},case_insensitive
+3,3,static,ciberNUsoid{Ch4s3_th3_Fl4g},
+4,4,static,ciberNUsoid{Sh4p3_th3_V1ct0ry},
+5,5,static,CiberNUsoid{1m4g3_St3g4n0gr4phy_87s4sh2},case_insensitive
+6,6,static,CiberNUtica{D1ff1cUlt_To_F1nd_Fl4g},
+7,7,static,ciberNUsoid{buffer_overflow_achieved},
+8,9,static,ciberNUsoid{edit_not_open},
+9,10,static,ciberNUsoid{MyP43c10usP13c30fHI5t0ry},
+10,11,static,ciberNUsoid{t3xt_ g0bbl3d_yg00k},case_insensitive
+11,13,static,ciberNUsoid{T41S1ST43M0M3NT},
+12,12,static,ciberNUsoid{ba5e64_r3cur5iv3_d3cod!ng_7a9a3h1},case_insensitive
+13,14,static,ciberNUsoid{basic},case_insensitive
+14,3,static,ciberNUsoid{Sh4p3_th3_V1ct0ry},
+15,9,static,cyberNUsoid{edit_not_open},

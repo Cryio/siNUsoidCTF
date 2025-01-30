@@ -1,0 +1,21 @@
+id,name,description,attribution,connection_info,next_id,max_attempts,value,category,type,state,requirements
+1,It's me mario,"We've sent the following secret message to mario. Help mario to understand the message. 
+
+flag format - ciberNUsoid{your_flag_here}",,,,0,200,Medium,dynamic,visible,
+2,Know your Photos,"Help me find the exposure time of this photograph.
+
+Flag format : ciberNUtica{exposure_time}",,,,0,75,Easy,dynamic,visible,
+3,Social Sinusoid,Follow Sinusoid.nu on instagram and keep an eye out for the flag. ,,,,0,50,Sanity Check,standard,visible,
+4,Ciber Capture,Our Ciber Chef is cooking someting !,,https://pastebin.com/dN6avfx6,,0,50,Sanity Check,standard,visible,
+5,Awaaz ke peeche kya hai,,,,,0,200,Medium,dynamic,visible,
+6,Mime Records,"The flag is in this file 
+																				source	- Truse me bro 😜",,,,0,300,Medium,dynamic,visible,
+7,Programming Mishap,"It seems I forgot to put a hint for the password. Oh well, I am sure you can figure it out.",,,,0,125,Easy,dynamic,visible,
+9,K.I.S.S.,Enough with these difficult questions. Here is the flag just download it.,,,,0,100,Easy,standard,visible,
+10,citadel,"Citadels, the resilient fortresses of the past, served as powerful symbols of defense and authority, safeguarding civilizations throughout history. ",,https://drive.google.com/file/d/1FAYXVZExaNVR2vuD_dKu1qQM0UsXDXA8/view?usp=sharing,,0,400,Hard,dynamic,visible,
+11,Text Gibberish,Find the flag in this text document!,,,,0,150,Easy,standard,visible,
+12,Recursive Decoding,,,,,0,75,Sanity Check,standard,visible,
+13,reverseme,How can you get the cow back from beef?,,,,0,300,Hard,dynamic,visible,
+14,Reflexive Retrograde,"I bet they had some cool sutff back in the day which we are too young to see. Must have been fun to play around with.
+
+Better start looking for someone who grew up in that era... :)",,,,0,450,Hard,standard,visible,

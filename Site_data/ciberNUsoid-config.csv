@@ -1,0 +1,113 @@
+id,key,value
+1,ctf_version,3.7.4
+2,ctf_theme,CTFd-theme-pixo
+3,dynamic_challenges_alembic_version,eb68f277ab61
+4,ctf_name,ciberNUsoid
+5,ctf_description,The annual CTF event of siNUsoid
+6,user_mode,users
+7,start,1731083400
+8,end,1731256200
+9,freeze,
+10,challenge_visibility,public
+11,registration_visibility,public
+12,score_visibility,public
+13,account_visibility,public
+14,verify_emails,0
+15,team_size,
+16,mail_server,smtp.gmail.com
+17,mail_port,465
+18,mail_tls,0
+19,mail_ssl,1
+20,mail_username,info.ctf@sinusoid.in
+21,mail_password,trxp qbsk hjcx mqxz
+22,mail_useauth,1
+23,verification_email_subject,Confirm your account for {ctf_name}
+24,verification_email_body,"Welcome to {ctf_name}!
+
+Click the following link to confirm and activate your account:
+{url}
+
+If the link is not clickable, try copying and pasting it into your browser.
+
+If you have any queries, please feel free to reach out to the event organizers.
+
+Contact Event Organizers:
+Srachet Rai & Pranav Sahani
+Email: info.ctf@sinusoid.in"
+25,successful_registration_email_subject,Successfully registered for {ctf_name}
+26,successful_registration_email_body,"You've successfully registered for {ctf_name}!
+
+If you have any queries, please feel free to reach out to the event organizers.
+
+Contact Event Organizers:
+Srachet Rai & Pranav Sahni
+Email: info.ctf@sinusoid.in"
+27,user_creation_email_subject,Message from {ctf_name}
+28,user_creation_email_body,"A new account has been created for you for {ctf_name} at {url}. 
+
+Username: {name}
+Password: {password}
+
+If you have any queries, please feel free to reach out to the event organizers.
+
+Contact Event Organizers:
+Srachet Rai & Pranav Sahani
+Email: info.ctf@sinusoid.in"
+29,password_reset_subject,Password Reset Request from {ctf_name}
+30,password_reset_body,"Did you initiate a password reset on {ctf_name}? If you didn't initiate this request you can ignore this email. 
+
+Click the following link to reset your password:
+{url}
+
+If the link is not clickable, try copying and pasting it into your browser.
+
+If you have any queries, please feel free to reach out to the event organizers.
+
+Contact Event Organizers:
+Srachet Rai & Pranav Sahani
+Email: info.ctf@sinusoid.in"
+31,password_change_alert_subject,Password Change Confirmation for {ctf_name}
+32,password_change_alert_body,"Your password for {ctf_name} has been changed.
+
+If you didn't request a password change you can reset your password here: {url}
+
+If you have any queries, please feel free to reach out to the event organizers.
+
+Contact Event Organizers:
+Srachet Rai & Pranav Sahani
+Email: info.ctf@sinusoid.in"
+33,setup,1
+34,version_latest,
+35,next_update_check,1731342224
+36,theme_header,"<style id=""theme-color"">
+:root {--theme-color: #000000;}
+.navbar{background-color: var(--theme-color) !important;}
+.jumbotron{background-color: var(--theme-color) !important;}
+</style>
+"
+37,theme_footer,"<!-- Google tag (gtag.js) -->
+<script async src=""https://www.googletagmanager.com/gtag/js?id=G-JXG26EWTXD""></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JXG26EWTXD');
+</script>
+
+
+"
+38,theme_settings,"{
+  ""challenge_window_size"": ""lg""
+}"
+39,mailfrom_addr,info.ctf@sinusoid.in
+40,mailgun_base_url,
+41,mailgun_api_key,
+42,domain_whitelist,
+43,num_users,
+44,incorrect_submissions_per_min,
+45,name_changes,0
+46,team_creation,1
+47,num_teams,
+48,team_disbanding,inactive_only
+49,view_after_ctf,1

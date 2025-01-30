@@ -1,0 +1,4 @@
+id,type,challenge_id,content,cost,requirements
+1,standard,1,I can't believe you have the audacity to ask for a hint.,25,{'prerequisites': []}
+2,standard,6,What is a wordlist? Why is it there in kali?,25,{'prerequisites': []}
+3,standard,11," If you are having trouble with this bit, try shifting your focus.",15,{'prerequisites': []}
